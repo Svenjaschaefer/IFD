@@ -15,3 +15,5 @@ Logoentwicklung - SPOTTED:
 [Logoentwicklung.pdf](https://github.com/Svenjaschaefer/IFD/files/8630022/Logoentwicklung.pdf)
 
 
+Link zum Prototyp:
+https://xd.adobe.com/view/53600a0e-4f5d-4428-bf56-9ad735dd31a5-0633/
